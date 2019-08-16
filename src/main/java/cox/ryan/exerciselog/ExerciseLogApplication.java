@@ -15,3 +15,4 @@ public class ExerciseLogApplication extends SpringBootServletInitializer {
 		SpringApplication.run(ExerciseLogApplication.class, args);
 	}
 }
+}

@@ -1,0 +1,9 @@
+/git/src/main/java/cox/ryan/exerciselog/controller/ExerciseRestController.java
+/git/src/main/java/cox/ryan/exerciselog/ExerciseLogApplication.java
+/git/src/main/java/cox/ryan/exerciselog/model/repositories/SetJpaRepository.java
+/git/src/main/java/cox/ryan/exerciselog/exceptions/NoSuchEntityException.java
+/git/src/main/java/cox/ryan/exerciselog/model/Exercise.java
+/git/src/main/java/cox/ryan/exerciselog/model/Set.java
+/git/src/main/java/cox/ryan/exerciselog/controller/SetRestController.java
+/git/src/main/java/cox/ryan/exerciselog/model/repositories/ExerciseJpaRepository.java
+/git/src/main/java/cox/ryan/exerciselog/exceptions/ExceptionHandlerConfiguration.java
